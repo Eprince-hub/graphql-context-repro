@@ -31,7 +31,7 @@ export default function LoginForm() {
 
     onCompleted: () => {
       router.refresh();
-      setInfo('Successfully logged in');
+      setInfo('Token created & Successfully logged in');
     },
   });
   return (

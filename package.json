@@ -10,32 +10,32 @@
     "migrate": "ley --require tsm"
   },
   "dependencies": {
-    "@apollo/client": "^3.8.5",
-    "@apollo/experimental-nextjs-app-support": "^0.4.3",
-    "@apollo/server": "^4.9.4",
+    "@apollo/client": "^3.8.8",
+    "@apollo/experimental-nextjs-app-support": "^0.5.2",
+    "@apollo/server": "^4.9.5",
     "@as-integrations/next": "^2.0.2",
-    "@graphql-tools/schema": "^10.0.0",
+    "@graphql-tools/schema": "^10.0.2",
     "dotenv": "^16.3.1",
     "graphql": "^16.8.1",
     "ley": "^0.8.1",
     "next": "13.5.4",
-    "postgres": "^3.3.5",
+    "postgres": "^3.4.3",
     "react": "latest",
     "react-dom": "latest",
-    "sass": "^1.69.1",
+    "sass": "^1.69.5",
     "server-only": "^0.0.1",
     "sharp": "^0.32.6",
     "tsm": "^2.3.0"
   },
   "devDependencies": {
     "@ts-safeql/eslint-plugin": "^2.0.3",
-    "@types/node": "^20",
+    "@types/node": "^20.10.5",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "eslint-config-upleveled": "^5.0.5",
+    "eslint-config-upleveled": "^5.1.4",
     "libpg-query": "^15.0.2",
-    "stylelint": "^15.10.3",
-    "stylelint-config-upleveled": "^1.0.2",
+    "stylelint": "^15.11.0",
+    "stylelint-config-upleveled": "^1.0.4",
     "typescript": "latest"
   }
 }
